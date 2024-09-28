@@ -1,0 +1,4 @@
+com\baeldung\books\events\AuthorEventHandlerUnitTest.class
+com\baeldung\SpringContextTest.class
+com\baeldung\books\events\BookEventHandlerUnitTest.class
+com\baeldung\books\projections\SpringDataProjectionLiveTest.class

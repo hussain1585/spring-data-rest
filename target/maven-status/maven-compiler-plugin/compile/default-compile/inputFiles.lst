@@ -1,0 +1,17 @@
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\config\DbConfig.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\config\MvcConfig.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\config\RestConfig.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\events\AuthorEventHandler.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\events\BookEventHandler.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\models\Address.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\models\Author.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\models\Book.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\models\Library.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\models\Subject.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\projections\CustomBook.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\repositories\AddressRepository.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\repositories\AuthorRepository.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\repositories\BookRepository.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\repositories\LibraryRepository.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\repositories\SubjectRepository.java
+C:\workspace\tutorials\persistence-modules\spring-data-rest\src\main\java\com\baeldung\books\SpringDataRestApplication.java
